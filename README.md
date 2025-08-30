@@ -45,6 +45,6 @@ Screenshots
 <img src="https://github.com/deepakkumar9470/react-product-dashboard/blob/main/public/dashboard2.png" alt="add-product" width="600">
 
 3.Update Product
-<img src="https://github.com/deepakkumar9470/react-product-dashboard/blob/main/public/dashboard2.png" alt="update-product" width="600">
+<img src="https://github.com/deepakkumar9470/react-product-dashboard/blob/main/public/dashboard3.png" alt="update-product" width="600">
 
 
